@@ -62,3 +62,7 @@ yarn start
 # Build your app without minification: 
 npm run build
 
+```
+
+## Reference
+https://www.electronforge.io/templates/typescript-+-webpack-template
